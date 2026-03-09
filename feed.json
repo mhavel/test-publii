@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Flotte&#x27;s Designs &amp; stories",
     "description": "",
-    "home_page_url": "https://www.mhavel.net",
-    "feed_url": "https://www.mhavel.net/feed.json",
+    "home_page_url": "https://www.mhavel.net/test-publii",
+    "feed_url": "https://www.mhavel.net/test-publii/feed.json",
     "user_comment": "",
     "author": {
         "name": "Flo"
     },
     "items": [
         {
-            "id": "https://www.mhavel.net/hello-world.html",
-            "url": "https://www.mhavel.net/hello-world.html",
+            "id": "https://www.mhavel.net/test-publii/hello-world.html",
+            "url": "https://www.mhavel.net/test-publii/hello-world.html",
             "title": "Hello World!",
-            "summary": "<p>Nous y voilà. Je commence mon enfin mon blog !</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.mhavel.net/media/posts/1/typst.jpeg\" alt=\"Typst logo\" width=\"225\" height=\"225\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.mhavel.net/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/media/posts/1/responsive/typst-lg.jpeg 1024w\"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>\n",
-            "content_html": "<p>Nous y voilà. Je commence mon enfin mon blog !</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://www.mhavel.net/media/posts/1/typst.jpeg\" alt=\"Typst logo\" width=\"225\" height=\"225\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.mhavel.net/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/media/posts/1/responsive/typst-lg.jpeg 1024w\"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>\n\n<p>dedefefef ffefef</p>\n<p class=\"msg msg--info\">Why not?</p>\n<p>Stay <span style=\"color: #f1c40f;\">tuned</span>.😘</p>",
+            "summary": "<p>Nous y voilà. Je commence mon enfin mon blog !</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.mhavel.net/test-publii/media/posts/1/typst.jpeg\" alt=\"Typst logo\" width=\"225\" height=\"225\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-lg.jpeg 1024w\"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>\n",
+            "content_html": "<p>Nous y voilà. Je commence mon enfin mon blog !</p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://www.mhavel.net/test-publii/media/posts/1/typst.jpeg\" alt=\"Typst logo\" width=\"225\" height=\"225\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-lg.jpeg 1024w\"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>\n\n<p>dedefefef ffefef</p>\n<p class=\"msg msg--info\">Why not?</p>\n<p>Stay <span style=\"color: #f1c40f;\">tuned</span>.😘</p>",
             "author": {
                 "name": "Flo"
             },

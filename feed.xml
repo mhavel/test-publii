@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Flotte&#x27;s Designs &amp; stories</title>
-    <link href="https://www.mhavel.net/feed.xml" rel="self" />
-    <link href="https://www.mhavel.net" />
+    <link href="https://www.mhavel.net/test-publii/feed.xml" rel="self" />
+    <link href="https://www.mhavel.net/test-publii" />
     <updated>2026-03-09T17:38:19+01:00</updated>
     <author>
         <name>Flo</name>
     </author>
-    <id>https://www.mhavel.net</id>
+    <id>https://www.mhavel.net/test-publii</id>
 
     <entry>
         <title>Hello World!</title>
         <author>
             <name>Flo</name>
         </author>
-        <link href="https://www.mhavel.net/hello-world.html"/>
-        <id>https://www.mhavel.net/hello-world.html</id>
+        <link href="https://www.mhavel.net/test-publii/hello-world.html"/>
+        <id>https://www.mhavel.net/test-publii/hello-world.html</id>
 
         <updated>2026-03-09T17:38:19+01:00</updated>
             <summary type="html">
                 <![CDATA[
                     <p>Nous y voilà. Je commence mon enfin mon blog !</p>
 <p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.mhavel.net/media/posts/1/typst.jpeg" alt="Typst logo" width="225" height="225" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.mhavel.net/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/media/posts/1/responsive/typst-lg.jpeg 1024w"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.mhavel.net/test-publii/media/posts/1/typst.jpeg" alt="Typst logo" width="225" height="225" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-lg.jpeg 1024w"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>
 
                 ]]>
             </summary>
@@ -30,7 +30,7 @@
             <![CDATA[
                 <p>Nous y voilà. Je commence mon enfin mon blog !</p>
 <p> </p>
-<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://www.mhavel.net/media/posts/1/typst.jpeg" alt="Typst logo" width="225" height="225" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.mhavel.net/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/media/posts/1/responsive/typst-lg.jpeg 1024w"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>
+<figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://www.mhavel.net/test-publii/media/posts/1/typst.jpeg" alt="Typst logo" width="225" height="225" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-xs.jpeg 300w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-sm.jpeg 480w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-md.jpeg 768w ,https://www.mhavel.net/test-publii/media/posts/1/responsive/typst-lg.jpeg 1024w"></figure>Voici mon long discours, qui wkdokw wodkwodkoff  foeo ofjeofj oejf oej foj eofj efojefojeofjeofjeojfoj oefjoej feojf oejf ojdfiirjw oefj woej f</p>
 
 <p>dedefefef ffefef</p>
 <p class="msg msg--info">Why not?</p>
